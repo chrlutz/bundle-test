@@ -1,0 +1,11 @@
+/.gnupg/
+*.swp
+
+# local symlinks
+/apt-repos
+/bundle
+/bundle-app
+/bundle-compose
+/bundle-compose-app
+/ng-bundle
+/ng-bundle-compose
