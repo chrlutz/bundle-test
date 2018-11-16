@@ -6,6 +6,7 @@
     { "Suite": "mybionic/0001", "Url": "mybionic/0001", "Tags": [ "rollout" ] },
     { "Suite": "mybionic/0002", "Url": "mybionic/0002", "Tags": [ "rollout" ] },
     { "Suite": "mybionic/0003", "Url": "mybionic/0003", "Tags": [ "staging" ] },
+    { "Suite": "mybionic/0004", "Url": "mybionic/0004", "Tags": [ "staging" ] },
     "---------"]
  }
 ]
