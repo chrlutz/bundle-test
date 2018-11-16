@@ -3,9 +3,9 @@ BasedOn: NEW
 Distribution: mybionic
 Target: plus
 Creator: chlu
-Releasenotes: <Subject>
+Releasenotes: Neue, wichtige Sicherheitsupdates aus bionic-security eingespielt
  .
- <Details>
+ Bitte sofort ausrollen!
  .
  __DYNAMIC_PACKAGE_LIST__
  .
