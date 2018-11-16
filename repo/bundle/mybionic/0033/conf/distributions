@@ -13,5 +13,5 @@ UDebComponents: main restricted universe multiverse partner
 Contents: .gz .bz2
 UDebIndices: Packages Release . .gz
 Tracking: minimal
-ReadOnly: No
+ReadOnly: Yes
 Update: - 
