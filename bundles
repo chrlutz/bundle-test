@@ -1,0 +1,164 @@
+ID: bundle:mybionic/0001
+Status: tested_and_released
+Target: plus
+Trac: 19192
+
+ID: bundle:mybionic/0101
+Status: tested_and_released
+Target: plus
+Trac: 19192
+
+ID: bundle:mybionic/0201
+Status: tested_and_released
+Target: plus
+Trac: 19192
+
+ID: bundle:mybionic/0301
+Status: tested_and_released
+Target: plus
+Trac: 19192
+
+ID: bundle:mybionic/0002
+Status: production
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0003
+Status: production
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0001
+Status: tested_and_released
+Target: plus
+Trac: 19192
+
+ID: bundle:mybionic/0101
+Status: test_cust
+Target: plus
+Trac: 19192
+
+ID: bundle:mybionic/0201
+Status: test_cust
+Target: plus
+Trac: 19192
+
+ID: bundle:mybionic/0301
+Status: test_cust
+Target: plus
+Trac: 19192
+
+ID: bundle:mybionic/0002
+Status: production
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0003
+Status: production
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0004
+Status: production
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0005
+Status: production
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0006
+Status: production
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0007
+Status: production
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0008
+Status: production
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0009
+Status: production
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0010
+Status: dropped
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0011
+Status: dropped
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0012
+Status: dropped
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0002
+Status: dropped
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0043
+Status: dropped
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0044
+Status: dropped
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0045
+Status: dropped
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0046
+Status: dropped
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0047
+Status: dropped
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0048
+Status: dropped
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0049
+Status: dropped
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0040
+Status: dropped
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0041
+Status: dropped
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0012
+Status: dropped
+Target: plus
+Trac: 19193
+
+ID: bundle:mybionic/0002
+Status: dropped
+Target: plus
+Trac: 19193
