@@ -8,6 +8,7 @@
     { "Suite": "mybionic/0003", "Url": "mybionic/0003", "Tags": [ "staging" ] },
     { "Suite": "mybionic/0004", "Url": "mybionic/0004", "Tags": [ "staging" ] },
     { "Suite": "mybionic/0005", "Url": "mybionic/0005", "Tags": [ "staging" ] },
+    { "Suite": "mybionic/0006", "Url": "mybionic/0006", "Tags": [ "staging" ] },
     "---------"]
  }
 ]
