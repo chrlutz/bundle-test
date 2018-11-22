@@ -127,7 +127,7 @@ Status: staging
 Target: plus
 
 ID: bundle:mybionic/0033
-Status: staging
+Status: new
 Target: plus
 
 ID: bundle:mybionic/0034
