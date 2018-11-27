@@ -129,7 +129,7 @@ Status: staging
 Target: plus
 
 ID: bundle:mybionic/0033
-Status: tested_and_released
+Status: test_cust
 Target: unattended
 Trac: 19196
 
