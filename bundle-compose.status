@@ -130,7 +130,7 @@ Target: plus
 
 ID: bundle:mybionic/0033
 Status: review_dev
-Target: plus
+Target: unattended
 Trac: 19196
 
 ID: bundle:mybionic/0034
