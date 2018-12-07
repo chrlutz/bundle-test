@@ -3,8 +3,8 @@
     "Oid": "bundle-repositories-mybionic",
     "Suites":
     ["--------",
-    { "Suite": "mybionic/0001", "Url": "mybionic/0001", "Tags": [ "rollout" ] },
-    { "Suite": "mybionic/0002", "Url": "mybionic/0002", "Tags": [ "rollout" ] },
+    { "Suite": "mybionic/0001", "Url": "mybionic/0001", "Tags": [ "sealed" ] },
+    { "Suite": "mybionic/0002", "Url": "mybionic/0002", "Tags": [ "sealed" ] },
     { "Suite": "mybionic/0003", "Url": "mybionic/0003", "Tags": [ "staging" ] },
     { "Suite": "mybionic/0004", "Url": "mybionic/0004", "Tags": [ "staging" ] },
     { "Suite": "mybionic/0005", "Url": "mybionic/0005", "Tags": [ "staging" ] },
@@ -35,7 +35,7 @@
     { "Suite": "mybionic/0030", "Url": "mybionic/0030", "Tags": [ "staging" ] },
     { "Suite": "mybionic/0031", "Url": "mybionic/0031", "Tags": [ "staging" ] },
     { "Suite": "mybionic/0032", "Url": "mybionic/0032", "Tags": [ "staging" ] },
-    { "Suite": "mybionic/0033", "Url": "mybionic/0033", "Tags": [ "rollout" ] },
+    { "Suite": "mybionic/0033", "Url": "mybionic/0033", "Tags": [ "sealed" ] },
     { "Suite": "mybionic/0034", "Url": "mybionic/0034", "Tags": [ "staging" ] },
     { "Suite": "mybionic/0035", "Url": "mybionic/0035", "Tags": [ "staging" ] },
     { "Suite": "mybionic/0036", "Url": "mybionic/0036", "Tags": [ "staging" ] },
@@ -52,6 +52,7 @@
     { "Suite": "mybionic/0047", "Url": "mybionic/0047", "Tags": [ "staging" ] },
     { "Suite": "mybionic/0048", "Url": "mybionic/0048", "Tags": [ "staging" ] },
     { "Suite": "mybionic/0049", "Url": "mybionic/0049", "Tags": [ "staging" ] },
+    { "Suite": "mybionic/0050", "Url": "mybionic/0050", "Tags": [ "staging" ] },
     "---------"]
  }
 ]
