@@ -130,7 +130,7 @@ Target: plus
 
 ID: bundle:mybionic/0033
 Status: production
-Target: unattended
+Target: plus
 Trac: 19196
 
 ID: bundle:mybionic/0034
