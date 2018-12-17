@@ -13,7 +13,7 @@ Status: tested_and_released
 Target: plus
 
 ID: bundle:mybionic/0004
-Status: staging
+Status: test_cust
 Target: plus
 
 ID: bundle:mybionic/0005
