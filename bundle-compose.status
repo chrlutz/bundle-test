@@ -73,7 +73,7 @@ Status: staging
 Target: plus
 
 ID: bundle:mybionic/0019
-Status: test_int
+Status: review_dev
 Target: plus
 
 ID: bundle:mybionic/0020
