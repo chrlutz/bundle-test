@@ -17,7 +17,7 @@ Status: test_cust
 Target: plus
 
 ID: bundle:mybionic/0005
-Status: new
+Status: dropped
 Target: plus
 
 ID: bundle:mybionic/0006
