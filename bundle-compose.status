@@ -11,18 +11,22 @@ Trac: 19195
 ID: bundle:mybionic/0003
 Status: tested_and_released
 Target: plus
+Trac: 19227
 
 ID: bundle:mybionic/0004
 Status: test_cust
 Target: plus
+Trac: 19228
 
 ID: bundle:mybionic/0005
 Status: dropped
 Target: plus
+Trac: 19229
 
 ID: bundle:mybionic/0006
 Status: new
 Target: plus
+Trac: 19230
 
 ID: bundle:mybionic/0007
 Status: staging
@@ -75,6 +79,7 @@ Target: plus
 ID: bundle:mybionic/0019
 Status: dropped
 Target: plus
+Trac: 19231
 
 ID: bundle:mybionic/0020
 Status: staging
