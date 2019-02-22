@@ -96,7 +96,7 @@ Target: plus
 
 ID: bundle:mybionic/0023
 Status: test_cust
-Target: plus
+Target: unattended
 
 ID: bundle:mybionic/0024
 Status: staging
