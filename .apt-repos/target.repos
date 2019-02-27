@@ -6,7 +6,7 @@
     "Suites" : [
         { "Suite" : "mybionic/dev", "Tags" : [
             "dev", "mybionic-reference",
-            "bundle-stage.devX", "bundle-stage.test", "bundle-stage.prod",
+            "bundle-stage.devX", "bundle-stage.smoketest", "bundle-stage.test", "bundle-stage.prod",
             "bundle-target.plus", "bundle-target.unattended"
         ]},
         { "Suite" : "mybionic/test", "Tags" : [
