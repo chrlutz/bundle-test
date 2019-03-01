@@ -34,7 +34,7 @@ Target: plus
 Trac: 19235
 
 ID: bundle:mybionic/0008
-Status: staging
+Status: tested_and_released
 Target: plus
 
 ID: bundle:mybionic/0009
