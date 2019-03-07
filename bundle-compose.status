@@ -34,7 +34,7 @@ Target: plus
 Trac: 19235
 
 ID: bundle:mybionic/0008
-Status: tested_and_released
+Status: ack_dev
 Target: plus
 
 ID: bundle:mybionic/0009
