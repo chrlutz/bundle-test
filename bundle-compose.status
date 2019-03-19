@@ -96,7 +96,7 @@ Target: plus
 
 ID: bundle:mybionic/0023
 Status: production
-Target: unattended
+Target: plus
 
 ID: bundle:mybionic/0024
 Status: staging
