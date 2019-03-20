@@ -53,6 +53,10 @@
     { "Suite": "mybionic/0048", "Url": "mybionic/0048", "Tags": [ "staging" ] },
     { "Suite": "mybionic/0049", "Url": "mybionic/0049", "Tags": [ "staging" ] },
     { "Suite": "mybionic/0050", "Url": "mybionic/0050", "Tags": [ "staging" ] },
+    { "Suite": "mybionic/0051", "Url": "mybionic/0051", "Tags": [ "staging" ] },
+    { "Suite": "mybionic/0052", "Url": "mybionic/0052", "Tags": [ "staging" ] },
+    { "Suite": "mybionic/0053", "Url": "mybionic/0053", "Tags": [ "staging" ] },
+    { "Suite": "mybionic/0054", "Url": "mybionic/0054", "Tags": [ "staging" ] },
     "---------"]
  }
 ]
