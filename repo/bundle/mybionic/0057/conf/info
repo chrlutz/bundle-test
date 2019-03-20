@@ -1,0 +1,13 @@
+Bundlename: mybionic/0057
+BasedOn: mybionic/0055
+Distribution: mybionic
+Target: plus
+Creator: chlu
+Rollout: false
+Releasenotes: Ich mach da irgend einen Blödsinn
+ .
+ mit dem git und so
+ .
+ __DYNAMIC_PACKAGE_LIST__
+ .
+

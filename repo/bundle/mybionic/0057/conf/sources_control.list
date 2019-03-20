@@ -1,0 +1,3 @@
+ADD_NEW             SRC+BIN  OF git-build-recipe 0.3.5 FROM bundle:mybionic/0055 universe/misc
+
+ADD_NEW             SRC+BIN  OF git-cola 3.0-1ubuntu1 FROM bundle:mybionic/0055 universe/devel
