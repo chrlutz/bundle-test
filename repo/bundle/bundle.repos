@@ -57,7 +57,7 @@
     { "Suite": "mybionic/0052", "Url": "mybionic/0052", "Tags": [ "staging" ] },
     { "Suite": "mybionic/0053", "Url": "mybionic/0053", "Tags": [ "staging" ] },
     { "Suite": "mybionic/0054", "Url": "mybionic/0054", "Tags": [ "staging" ] },
-    { "Suite": "mybionic/0055", "Url": "mybionic/0055", "Tags": [ "staging" ] },
+    { "Suite": "mybionic/0055", "Url": "mybionic/0055", "Tags": [ "staging", "rollout" ] },
     "---------"]
  }
 ]

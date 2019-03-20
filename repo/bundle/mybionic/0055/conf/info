@@ -3,6 +3,7 @@ BasedOn: NEW
 Distribution: mybionic
 Target: plus
 Creator: chlu
+Rollout: true
 Releasenotes: Ich mach da irgend einen Blödsinn
  .
  mit dem git
