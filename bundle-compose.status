@@ -32,6 +32,7 @@ ID: bundle:mybionic/0006
 Status: NEW
 Target: standard
 Trac: 19230
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0007
 Status: DROPPED
