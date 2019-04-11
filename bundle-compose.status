@@ -48,6 +48,7 @@ Ignores: TargetFromInfoFile
 ID: bundle:mybionic/0009
 Status: STAGING
 Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0010
 Status: STAGING
