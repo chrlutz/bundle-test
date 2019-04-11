@@ -1,240 +1,240 @@
 ID: bundle:mybionic/0001
-Status: dropped
+Status: DROPPED
 Target: plus
 Trac: 19194
 
 ID: bundle:mybionic/0002
-Status: ack_dev
+Status: ACK_DEV
 Target: plus
 Trac: 19195
 
 ID: bundle:mybionic/0003
-Status: ack_dev
+Status: ACK_DEV
 Target: plus
 Trac: 19227
 
 ID: bundle:mybionic/0004
-Status: production
+Status: PRODUCTION
 Target: plus
 Trac: 19228
 
 ID: bundle:mybionic/0005
-Status: dropped
+Status: DROPPED
 Target: plus
 Trac: 19229
 
 ID: bundle:mybionic/0006
-Status: new
+Status: NEW
 Target: plus
 Trac: 19230
 
 ID: bundle:mybionic/0007
-Status: dropped
+Status: DROPPED
 Target: plus
 Trac: 19235
 
 ID: bundle:mybionic/0008
-Status: ack_dev
+Status: ACK_DEV
 Target: plus
 
 ID: bundle:mybionic/0009
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0010
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0011
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0012
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0013
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0014
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0015
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0016
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0017
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0018
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0019
-Status: dropped
+Status: DROPPED
 Target: plus
 Trac: 19231
 
 ID: bundle:mybionic/0020
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0021
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0022
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0023
-Status: production
+Status: PRODUCTION
 Target: plus
 
 ID: bundle:mybionic/0024
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0025
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0026
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0027
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0028
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0029
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0030
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0031
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0032
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0033
-Status: staging
+Status: STAGING
 Target: plus
 Trac: 19196
 
 ID: bundle:mybionic/0034
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0035
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0036
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0037
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0038
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0039
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0040
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0041
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0042
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0043
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0044
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0045
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0046
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0047
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0048
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0049
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0050
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0051
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0052
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0053
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0054
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0055
-Status: new
+Status: NEW
 Target: plus
 
 ID: bundle:mybionic/0056
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0057
-Status: staging
+Status: STAGING
 Target: plus
 
 ID: bundle:mybionic/0058
-Status: staging
+Status: STAGING
 Target: plus
