@@ -1,8 +1,8 @@
 ID: bundle:mybionic/0001
 Status: DROPPED
 Target: standard
-Ignores: TargetFromInfoFile
 Trac: 19194
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0002
 Status: ACK_DEV
@@ -12,14 +12,14 @@ Trac: 19195
 ID: bundle:mybionic/0003
 Status: ACK_DEV
 Target: standard
-Ignores: TargetFromInfoFile
 Trac: 19227
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0004
 Status: PRODUCTION
 Target: standard
-Ignores: TargetFromInfoFile
 Trac: 19228
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0005
 Status: DROPPED
@@ -35,8 +35,8 @@ Trac: 19230
 ID: bundle:mybionic/0007
 Status: DROPPED
 Target: standard
-Ignores: TargetFromInfoFile
 Trac: 19235
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0008
 Status: ACK_DEV
@@ -95,8 +95,8 @@ Ignores: TargetFromInfoFile
 ID: bundle:mybionic/0019
 Status: DROPPED
 Target: standard
-Ignores: TargetFromInfoFile
 Trac: 19231
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0020
 Status: STAGING
@@ -166,8 +166,8 @@ Ignores: TargetFromInfoFile
 ID: bundle:mybionic/0033
 Status: STAGING
 Target: standard
-Ignores: TargetFromInfoFile
 Trac: 19196
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0034
 Status: STAGING
