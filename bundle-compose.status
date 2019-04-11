@@ -20,7 +20,7 @@ Trac: 19228
 
 ID: bundle:mybionic/0005
 Status: DROPPED
-Target: unattended
+Target: standard
 Trac: 19229
 Ignores: TargetFromInfoFile
 
