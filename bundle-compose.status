@@ -20,8 +20,9 @@ Trac: 19228
 
 ID: bundle:mybionic/0005
 Status: DROPPED
-Target: plus
+Target: unattended
 Trac: 19229
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0006
 Status: NEW
