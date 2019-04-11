@@ -1,21 +1,24 @@
 ID: bundle:mybionic/0001
 Status: DROPPED
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 Trac: 19194
 
 ID: bundle:mybionic/0002
 Status: ACK_DEV
-Target: plus
+Target: standard
 Trac: 19195
 
 ID: bundle:mybionic/0003
 Status: ACK_DEV
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 Trac: 19227
 
 ID: bundle:mybionic/0004
 Status: PRODUCTION
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 Trac: 19228
 
 ID: bundle:mybionic/0005
@@ -26,216 +29,267 @@ Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0006
 Status: NEW
-Target: plus
+Target: standard
 Trac: 19230
 
 ID: bundle:mybionic/0007
 Status: DROPPED
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 Trac: 19235
 
 ID: bundle:mybionic/0008
 Status: ACK_DEV
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0009
 Status: STAGING
-Target: plus
+Target: standard
 
 ID: bundle:mybionic/0010
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0011
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0012
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0013
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0014
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0015
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0016
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0017
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0018
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0019
 Status: DROPPED
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 Trac: 19231
 
 ID: bundle:mybionic/0020
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0021
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0022
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0023
 Status: PRODUCTION
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0024
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0025
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0026
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0027
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0028
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0029
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0030
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0031
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0032
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0033
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 Trac: 19196
 
 ID: bundle:mybionic/0034
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0035
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0036
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0037
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0038
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0039
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0040
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0041
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0042
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0043
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0044
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0045
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0046
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0047
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0048
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0049
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0050
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0051
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0052
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0053
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0054
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0055
 Status: NEW
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0056
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0057
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0058
 Status: STAGING
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
