@@ -7,17 +7,17 @@
         { "Suite" : "mybionic/dev", "Tags" : [
             "dev", "mybionic-reference",
             "bundle-stage.devX", "bundle-stage.smoketest", "bundle-stage.test", "bundle-stage.prod",
-            "bundle-target.plus", "bundle-target.unattended"
+            "bundle-target.standard", "bundle-target.unattended"
         ]},
         { "Suite" : "mybionic/test", "Tags" : [
             "test",
             "bundle-stage.test", "bundle-stage.prod",
-            "bundle-target.plus", "bundle-target.unattended"
+            "bundle-target.standard", "bundle-target.unattended"
         ]},
         { "Suite" : "mybionic", "Tags" : [
             "prod",
             "bundle-stage.prod",
-            "bundle-target.plus", "bundle-target.unattended"
+            "bundle-target.standard", "bundle-target.unattended"
         ]},
         { "Suite" : "mybionic/unattended", "Tags" : [
             "prod",
