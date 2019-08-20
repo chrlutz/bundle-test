@@ -1,5 +1,6 @@
 /.gnupg/
 *.swp
+/.secretToken
 
 # local symlinks
 /apt-repos
