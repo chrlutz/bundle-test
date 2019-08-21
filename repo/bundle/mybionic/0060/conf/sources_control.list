@@ -1,1 +1,1 @@
-ADD_NEW             SRC+BIN  OF 2ping 4.1-1 FROM ubuntu:bionic universe/net
+KEEP                SRC+BIN  OF 2ping 4.1-1 IN bundle:mybionic/0060 universe/net
