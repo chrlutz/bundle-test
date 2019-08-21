@@ -1,2 +1,1 @@
-###
-ADD_NEW             SRC+BIN  OF 3270font 1.2.20-1 FROM ubuntu:bionic universe/misc
+KEEP                SRC+BIN  OF 3270font 1.2.20-1 IN bundle:mybionic/0059 universe/misc
