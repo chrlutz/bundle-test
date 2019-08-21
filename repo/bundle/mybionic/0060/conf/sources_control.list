@@ -1,1 +1,1 @@
-KEEP                SRC+BIN  OF 4g8 1.0-3.2 IN bundle:mybionic/0060 universe/misc
+ADD_NEW             SRC+BIN  OF 2ping 4.1-1 FROM ubuntu:bionic universe/net
