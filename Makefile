@@ -11,5 +11,5 @@ git_update: _ensure_clean_git
 bundle_apply_all:
 	for i in $$(ls repo/bundle/mybionic/); do b=mybionic/$$i; echo $$b; bundle apply $$b; done
 
-repo_update_bundles:
+repo_update_bundles: git_update
 	tools/repo_update_bundles.sh
