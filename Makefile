@@ -5,7 +5,7 @@ _ensure_clean_git:
 	@s="`git status --untracked-files=no --porcelain`" && [ -z "$$s" ] || { echo; echo "please checkin everything before"; echo; false; }
 
 _gpg_update:
-	gpg2 --import .apt-repos/gpg/*.gpg
+	gpg --import .apt-repos/gpg/*.gpg
 
 git_update: _ensure_clean_git
 	git pull -r
