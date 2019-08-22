@@ -1,7 +1,7 @@
 Bundlename: mybionic/0060
 BasedOn: NEW
 Distribution: mybionic
-Target: plus
+Target: standard
 Creator: chlu
 Releasenotes: <Subject>
  .
