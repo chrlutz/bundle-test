@@ -304,4 +304,5 @@ Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0060
 Status: staging
-Target: plus
+Target: standard
+Ignores: TargetFromInfoFile
