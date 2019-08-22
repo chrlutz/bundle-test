@@ -296,3 +296,11 @@ ID: bundle:mybionic/0058
 Status: staging
 Target: standard
 Ignores: TargetFromInfoFile
+
+ID: bundle:mybionic/0059
+Status: staging
+Target: plus
+
+ID: bundle:mybionic/0060
+Status: staging
+Target: plus
