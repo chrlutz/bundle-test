@@ -1,5 +1,5 @@
 Name: from-bundle-mybionic-0059
-Method: file:///reprepro-management/repo/bundle/mybionic/0059/
+Method: http://webserver/bundles/mybionic/0059/
 Suite: mybionic
 Components: main restricted universe multiverse partner
 #UDebComponents: main restricted universe multiverse partner
