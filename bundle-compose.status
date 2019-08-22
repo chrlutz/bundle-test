@@ -5,7 +5,7 @@ Trac: 19194
 Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0002
-Status: ack_dev
+Status: dropped
 Target: standard
 Trac: 19195
 Ignores: TargetFromInfoFile
