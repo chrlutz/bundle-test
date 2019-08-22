@@ -2,7 +2,7 @@
     "Repository" : "MyBionic-Ziel Repository",
     "Prefix" : "target",
     "Tags" : [ "bundle-compose-target", "bundle-dist.mybionic" ],
-    "Url" : "file://{PWD}/repo/target/",
+    "Url" : "http://webserver/target/",
     "Suites" : [
         { "Suite" : "mybionic/dev", "Tags" : [
             "dev", "mybionic-reference",

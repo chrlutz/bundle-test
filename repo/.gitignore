@@ -2,4 +2,5 @@ dists
 lists
 db
 pool
-/target
+log
+morgue
