@@ -4,10 +4,10 @@ test:
 _ensure_clean_git:
 	@s="`git status --untracked-files=no --porcelain`" && [ -z "$$s" ] || { echo; echo "please checkin everything before"; echo; false; }
 
-_gpg_update:
+_update_gpg_keys:
 	gpg --import .apt-repos/gpg/*.gpg
 
-git_update: _ensure_clean_git
+update_git: _ensure_clean_git
 	git pull -r
 	git submodule update
 
@@ -18,10 +18,10 @@ update_bundle_compose_status:
 
 repo_update: repo_update_bundles repo_update_target
 
-repo_update_bundles: git_update _gpg_update
+repo_update_bundles: update_git _update_gpg_keys
 	tools/repo_update_bundles.sh
 
-repo_update_target: git_update _gpg_update
+repo_update_target: update_git _update_gpg_keys
 	bundle-compose apply
 	reprepro -b repo/target --noskipold update
 	@echo "Finished repo_update_target"
