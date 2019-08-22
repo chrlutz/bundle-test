@@ -298,7 +298,7 @@ Target: standard
 Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0059
-Status: staging
+Status: test_int
 Target: standard
 
 ID: bundle:mybionic/0060
