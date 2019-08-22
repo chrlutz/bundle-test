@@ -17,7 +17,7 @@ bundle_apply_all:
 repo_update_bundles: git_update _gpg_update
 	tools/repo_update_bundles.sh
 
-.PHONY: list
-list:
+list_commands:
+	@echo "Available Commands:"
 	@make -pRrq : 2>/dev/null | perl -ne 'print "$$1\n" if $$_=~/^([a-zA-Z][a-zA-Z0-9_\-]+):/' | grep -v "Makefile" | sort
 
