@@ -302,5 +302,5 @@ Status: test_int
 Target: standard
 
 ID: bundle:mybionic/0060
-Status: staging
+Status: test_int
 Target: standard
