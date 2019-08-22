@@ -1,7 +1,7 @@
 Bundlename: {{ bundleName }}
 BasedOn: {{ baseBundleName }}
 Distribution: {{ release }}
-Target: plus
+Target: standard
 Creator: {{ creator }}
 Releasenotes: <Subject>
  .
