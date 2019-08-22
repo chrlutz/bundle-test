@@ -20,6 +20,7 @@ repo_update_bundles: git_update _gpg_update
 repo_update_target: git_update _gpg_update
 	bundle-compose apply
 	reprepro -b repo/target --noskipold update
+	@echo "Finished repo_update_target"
 
 list_commands:
 	@echo "Available Commands:"
