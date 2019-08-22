@@ -16,6 +16,8 @@ update_bundle_compose_status:
 	git add bundle-compose.status
 	git commit -m "bundle-compose update-bundles"
 
+repo_update: repo_update_bundles repo_update_target
+
 repo_update_bundles: git_update _gpg_update
 	tools/repo_update_bundles.sh
 
