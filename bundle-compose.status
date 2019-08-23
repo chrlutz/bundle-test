@@ -253,7 +253,7 @@ Target: standard
 Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0050
-Status: test_int
+Status: new
 Target: standard
 Ignores: TargetFromInfoFile
 
