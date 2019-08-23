@@ -46,7 +46,7 @@ Target: standard
 Ignores: TargetFromInfoFile
 
 ID: bundle:mybionic/0009
-Status: staging
+Status: new
 Target: standard
 Ignores: TargetFromInfoFile
 
