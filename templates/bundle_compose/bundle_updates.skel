@@ -6,5 +6,5 @@ Components: {{ components }}
 Architectures: {{ architectures }}
 DownloadListsAs: .gz
 GetInRelease: no
-VerifyRelease: blindtrust
+VerifyRelease: 2BB59231BEDCE188
 
