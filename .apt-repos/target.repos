@@ -1,5 +1,5 @@
 [{
-    "Repository" : "MyBionic-Ziel Repository",
+    "Repository" : "MyBionic-Ziel Repository mit bösen Üläuten",
     "Prefix" : "target",
     "Tags" : [ "bundle-compose-target", "bundle-dist.mybionic", "default" ],
     "Url" : "http://webserver/target/",
