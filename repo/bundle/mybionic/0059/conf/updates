@@ -1,12 +1,12 @@
-Name: from-ubuntu-bionic-security
-Method: http://archive.ubuntu.com/ubuntu/
-Suite: bionic-security
-Components: main restricted universe multiverse
-#UDebComponents: main restricted universe multiverse
+Name: from-bundle-mybionic-0059
+Method: http://webserver/bundles/mybionic/0059/
+Suite: mybionic
+Components: main restricted universe multiverse partner
+#UDebComponents: main restricted universe multiverse partner
 UDebComponents:
 Architectures: i386 amd64 source
-VerifyRelease: 251BEFF479164387!|3B4FE6ACC0B21F32!|40976EAF437D05B5!|46181433FBB75451!|D94AA3F0EFE21092!
+VerifyRelease: blindtrust
 GetInRelease: no
-FilterSrcList: purge FilterSrcList-from-ubuntu-bionic-security
+FilterSrcList: purge FilterSrcList-from-bundle-mybionic-0059
 DownloadListsAs: .gz
 
